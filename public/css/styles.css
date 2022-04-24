@@ -1,7 +1,7 @@
 #intro{
     background-image: url("../images/large.gif");
     height: 50vw;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat; 
     background-size: 100vw 50vw;
     position: relative;
 }
